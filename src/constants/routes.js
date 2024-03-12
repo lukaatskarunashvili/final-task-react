@@ -1,12 +1,12 @@
 const home = "/";
 const signIn = "/sign-in";
 const signUp = "/sign-up";
-const posts = "/posts";
+const movies = "/movies";
 const routes = {
   home,
   signIn,
   signUp,
-  posts,
+  movies,
 };
 
 export default routes;
